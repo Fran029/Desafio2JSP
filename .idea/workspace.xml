@@ -9,20 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e0037f4-8aff-4d97-b86c-94def981a6e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="5e0037f4-8aff-4d97-b86c-94def981a6e6" name="Changes" comment="cambios  tildes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/business/HabitacionBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business/HabitacionBusiness.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/desafio2jsp/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/desafio2jsp/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Habitacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Habitacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/html/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/html/footer.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/html/head.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/html/head.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/assets/html/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/assets/html/header.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/proceso.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/proceso.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,24 +54,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Tomcat Server.Tomcat 10.1.25.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Francisca/Desktop/Material de apoyo guía de ejercicios - JEE y Java Server Pages (III)/Material de apoyo - Bloque 10/Desafio2JSP/src/main/webapp/assets/css",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.25.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Francisca/Desktop/Material de apoyo guía de ejercicios - JEE y Java Server Pages (III)/Material de apoyo - Bloque 10/Desafio2JSP/src/main/webapp/assets/css&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Francisca\Desktop\Material de apoyo guía de ejercicios - JEE y Java Server Pages (III)\Material de apoyo - Bloque 10\Desafio2JSP\src\main\webapp\assets\css" />
@@ -159,8 +148,50 @@
       <option name="presentableId" value="Default" />
       <updated>1719347691010</updated>
       <workItem from="1719347692097" duration="4312000" />
-      <workItem from="1719352047991" duration="18425000" />
+      <workItem from="1719352047991" duration="18847000" />
+      <workItem from="1720839855552" duration="1412000" />
     </task>
+    <task id="LOCAL-00001" summary="cambios contenttype para que salgan los tildes">
+      <option name="closed" value="true" />
+      <created>1719371531821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719371531821</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cambios contenttype tildes">
+      <option name="closed" value="true" />
+      <created>1719371587487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719371587487</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cambios  tildes">
+      <option name="closed" value="true" />
+      <created>1719371672692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719371672692</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cambios  tildes">
+      <option name="closed" value="true" />
+      <created>1719371733120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719371733120</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cambios  tildes">
+      <option name="closed" value="true" />
+      <created>1720840026788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720840026788</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,5 +199,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="primer commit" />
+    <MESSAGE value="cambios contenttype _tilde" />
+    <MESSAGE value="cambios contenttype para que salgan los tildes" />
+    <MESSAGE value="cambios contenttype tildes" />
+    <MESSAGE value="cambios" />
+    <MESSAGE value="cambios  tildes" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios  tildes" />
   </component>
 </project>

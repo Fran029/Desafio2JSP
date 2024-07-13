@@ -21,7 +21,7 @@
 
 
     <%@include file="assets/html/header.jsp"%>
-   
+
 
     <%@include file="assets/html/footer.jsp"%>
 
@@ -142,10 +142,9 @@
 
         </section>
 
-        <br /> <br />
+        <br>  </br>
 
-
-
-    </body>
+    </form>
+</body>
 
 </html>
