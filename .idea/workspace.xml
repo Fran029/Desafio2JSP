@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5e0037f4-8aff-4d97-b86c-94def981a6e6" name="Changes" comment="cambios  tildes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,8 @@
       <updated>1719347691010</updated>
       <workItem from="1719347692097" duration="4312000" />
       <workItem from="1719352047991" duration="18847000" />
-      <workItem from="1720839855552" duration="1412000" />
+      <workItem from="1720839855552" duration="3121000" />
+      <workItem from="1721007265975" duration="667000" />
     </task>
     <task id="LOCAL-00001" summary="cambios contenttype para que salgan los tildes">
       <option name="closed" value="true" />
@@ -191,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720840026788</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="cambios  tildes">
+      <option name="closed" value="true" />
+      <created>1720841342450</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720841342450</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
